@@ -1,0 +1,13 @@
+body{background-color:gray;}
+
+h1{ text-align: center; font-family:Tahoma; font-size: 50px;}
+h2{ text-align: center; font-family:Tahoma; font-size: 25px;}
+p1{ text-align: left; font-family:Tahoma; font-size: 20px;}
+p2{ text-align: left; font-family:Tahoma; font-size: 20px;}
+footer{ text-align: center; font-family:times new roman; font-size: 15x;}
+ul1{ font-family: tahoma; font-size:20px}
+
+#pics{width: 1010px;
+  padding:20px;
+  border: 10px solid black;
+  margin: 0;}
